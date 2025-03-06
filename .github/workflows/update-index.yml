@@ -6,6 +6,9 @@ on:
       - 'meetups/**.md'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-index:
     runs-on: ubuntu-latest
