@@ -3,4 +3,4 @@
 Welcome to our meetup notes repository!
 
 ## Meetups
-- [Meeting notes 2025-02-10](notes/2025-02-10.md)
+- [Meeting notes 2025-02-10](meetups/2025-02-10.md)
