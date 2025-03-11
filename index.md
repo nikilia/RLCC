@@ -4,7 +4,7 @@ Welcome to our meetup notes repository!
 
 ## Meetups
 
-- [Meetup: March 10, 2025](meetups/2025-03-10.md)
+- [meetup 2025-03-10](meetups/2025-03-10.md)
 - [Meetup: February 10, 2025](meetups/2025-02-10.md)
 
 ## How to Contribute
