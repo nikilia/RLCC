@@ -4,6 +4,7 @@ Welcome to our meetup notes repository!
 
 ## Meetups
 
+- [RLCC 13!!](meetups/2025-09-10.md)
 - [RLCC meetup June 6 ](meetups/2025-06-06.md)
 - [RLCC meetup April 9](meetups/2025-04-09.md)
 - [Meetup: 2025-03-10](meetups/2025-03-10.md)
